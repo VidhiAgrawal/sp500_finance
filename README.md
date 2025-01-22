@@ -2,6 +2,7 @@
 # Hunting Tomorrow's Leaders: Using Machine Learning to Forecast S&P 500 Additions & Removal
 
 This repository applies machine learning techniques to predict changes in **S&P 500 membership**—key events influencing investor behavior and market dynamics. By leveraging **Random Forest, Logistic Regression**, and **SVC** models, we identify potential index inclusions and deletions, offering actionable insights for alpha-capturing trading strategies.
+Link to white paper: https://arxiv.org/abs/2412.12539v1
 
 ## Overview
 
