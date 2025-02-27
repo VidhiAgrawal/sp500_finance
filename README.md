@@ -39,6 +39,8 @@ The dataset integrates multiple financial and market sources spanning **2013–2
 
 4. **Audit Analytics**  
    - Data on auditor changes and financial restatements.
+5. **SIC Codes**
+   - Industry Classification, names derived from hierarchical SIC groupings
 
 
 ## Key Features
